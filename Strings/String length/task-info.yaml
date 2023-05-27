@@ -7,7 +7,7 @@ files:
     length: 16
     placeholder_text: '"???"'
     initial_state:
-      length: 5
+      length: 16
       offset: 121
     initialized_from_dependency: false
     selected: true
@@ -17,8 +17,8 @@ files:
     length: 0
     placeholder_text: '"???"'
     initial_state:
-      length: 5
-      offset: 185
+      length: 0
+      offset: 219
     initialized_from_dependency: false
     selected: true
     status: Solved
@@ -35,7 +35,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Length
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 27 May 2023 00:38:29 UTC"
 record: -1
