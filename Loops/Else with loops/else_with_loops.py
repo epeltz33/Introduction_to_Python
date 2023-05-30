@@ -6,7 +6,8 @@ else:
     print('and now it\'s 5')  # Print this message when the condition is no longer True
 
 for i in range(1, 5):
-    # Add a condition for interruption.
+    if i == 3:
+        break
         # Add a statement that will terminate the loop.
     print(i)
 else:
