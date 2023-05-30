@@ -6,6 +6,11 @@ for i in range(5):
     my_function()
 
 
+print("I want to be a function")
+print("I want to be a function")
+print("I want to be a function")
+
+
 def fun():
     print("I want to be a function")
 
