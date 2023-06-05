@@ -1,4 +1,5 @@
 type: edu
+custom_name: Call a method from another method
 files:
 - name: call_method.py
   visible: true
