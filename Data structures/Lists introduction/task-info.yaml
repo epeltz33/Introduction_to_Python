@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 72
-    length: 12
+    length: 3
     placeholder_text: ???
     initial_state:
-      length: 12
+      length: 3
       offset: 72
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: vSW9C0BiOoEWWUxpBjiycQ==
   encrypted_text: 2wbKfLqLledF05vgQmwVMZ4NQVKuCcEARmYXTs5bDpQddaRzdJUKadrSSzOi0xikRCgl9WkdvMCAFH/YHLgTvc9Yff1buglj6LSHlUS2HOI=

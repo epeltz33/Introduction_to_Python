@@ -3,48 +3,48 @@ files:
 - name: arithmetic_operators.py
   visible: true
   placeholders:
-  - offset: 48
-    length: 10
+  - offset: 54
+    length: 26
     placeholder_text: '# divide the number by two'
     initial_state:
       length: 26
       offset: 54
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: lGQxpA1+z52GAwFJDQSO/A==
-  - offset: 81
-    length: 10
+  - offset: 103
+    length: 56
     placeholder_text: '# get the remainder of the division of the number by two'
     initial_state:
       length: 56
       offset: 103
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: +e4pv0YAe10VViDxo4Fm6w==
-  - offset: 117
-    length: 19
+  - offset: 185
+    length: 35
     placeholder_text: '# multiply the division result by 2'
     initial_state:
       length: 35
       offset: 185
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: t43UqH5laWQWGEg+EbiH0s1XBCP9lvVooppvpg50Qgk=
-  - offset: 156
-    length: 42
+  - offset: 240
+    length: 57
     placeholder_text: '# add the division remainder to the multiplication result'
     initial_state:
       length: 57
       offset: 240
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: AWxCOVsmJb5hC+guvuNyoB3C4oNTysI9JnY5OXx84Z8h2ek9AdLzrOSTabWbOsx9
-  - offset: 220
-    length: 31
+  - offset: 320
+    length: 60
     placeholder_text: '# subtract the multiplication result from the initial number'
     initial_state:
       length: 60
@@ -53,24 +53,24 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: H3IzrWV+lN8B/ro7s1CmTHWp25Tm6ZTQmdCqzAOGrSQ=
-  - offset: 268
-    length: 11
+  - offset: 397
+    length: 41
     placeholder_text: '# perform a floor division of number by 2'
     initial_state:
       length: 41
       offset: 397
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: e4XrUkwPs44lzYPqLX6Djg==
-  - offset: 296
-    length: 26
+  - offset: 455
+    length: 51
     placeholder_text: '# raise the multiplication result to the power of 3'
     initial_state:
       length: 51
       offset: 455
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: AWxCOVsmJb5hC+guvuNyoAKsWZtufe9HFqDxWqFaIhI=
   encrypted_text: hfbkELl8Xo1LId/aahgBqBoB6nAH3udqvuXjgK/DTg4Dga+JiEhlKs5MgAo38Or+iD4+pDHkXDl/qmk+q0a1nJIKIhRlw7XyXOxDsUdZOTazgbGxArPfGGj3iJawHVCOGN5EOcjbxtGIHfZgnvbB8ozBWHMmY5HF2xt1KgLaMsGViTmmqK8qVekVL3JEOHJdIo3mu54hcUlxRd7sL14BAIDa2P8efnH032UCnmCzZFTp+fq2GG9wrLLKFUlBgBXvndL6xek0Vz5+f1rNDEoT4+VHYir6skIkm4vlKK0PavAemGUqdNTd293tdCkr41dxOe+ZncSm3ty1hrXXuEYTBnGiSlVJme2NHTHkN641Z7ZmfKIreokPoPVaJMzBXAK5/etIK0VZZUIDY+tteHhQVNndVYjEmV1NLUXCsLnyR2aqmZ81wnCe6lcv/0g9ddwvSdVbyuME/mEXFgKj7sSWeZEOII+a5ldl2GVMyPtFma2T4ORUrY42cFaOKOSZojFCQ5MxdIXriGzYrfOmObFsMXtqzf265SNO84Jw2Edjoxm2OXK1Fca6EH6JuBFrCeasMUTd1abyK+W5qijzpY3g1jedQGANGebrLbI0v/N7RyYywsNLHGcT6dcZ03fZTLuXblTqIYoPcZHdxJ3ZfxdcuzXLKUQ8TCaY7yPr5pJJ5DK+bMogaxqCDlgfvBhFFKKoP9spgJVmkJ/6C9y8ZZvxBYncgwXU4v1GHxYXWd8LyAg=
@@ -81,7 +81,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Arithmetic+Operators
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 26 May 2023 19:43:44 UTC"
 record: -1

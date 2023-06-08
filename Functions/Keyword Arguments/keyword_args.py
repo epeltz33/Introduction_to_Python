@@ -5,4 +5,4 @@ def cat(food, state='still hungry', action='meow', breed='Siamese'):
     print(f"-- It's {state}!")
 
 
-cat(???)
+cat(action="growl", food="soup", breed="Sphinx", state="still hungry")

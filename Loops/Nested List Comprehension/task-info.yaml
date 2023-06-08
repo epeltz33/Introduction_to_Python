@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 33
-    length: 32
+    length: 6
     placeholder_text: '''TODO'''
     initial_state:
       length: 6
       offset: 33
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: o0aoaUkDTEjccc94olPs54JYZOWbwwHA9WLYKSd3r8TVeX1AEsFYoWazDPAhJD21
   encrypted_text: HtnZyC0JsnaEeQorL1xoPuN5b3KeFlpd+jbMVRZF5T+3DKDPb2lH4etuaLFdwsRDtcav2CbENLEXDqoJxZ12K/0clmywIcpyhhOJrp3lBVQ=
@@ -29,7 +29,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+Nested+List+Comprehension
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 29 May 2023 21:44:16 UTC"
 record: -1
